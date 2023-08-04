@@ -43,7 +43,7 @@ h2 span{
     display: grid;
     gap: 40px;
     width: 100%;
-    grid-template-columns: 0.8fr 3fr;
+    grid-template-columns: 1.3fr 3fr;
     margin-top: 20px;
 }
 .group .imgBx{
